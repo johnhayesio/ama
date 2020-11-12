@@ -6,7 +6,7 @@
 
 Have a question about anything? Ask away... This way anyone can read the answer!
 
-Anything means *anything*. Personal. Health. Wealth. Life. Code. :wink:
+Anything means *anything*. Personal. Health. Wealth. Life. Code. ANYTHING! :wink:
 
 ### Guidelines
 
