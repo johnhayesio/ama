@@ -10,12 +10,12 @@ Anything means *anything*. Personal. Health. Wealth. Life. Code. :joy:
 
 ### Guidelines
 
- - :mag:&nbsp;Ensure your question hasn't already been answered.
- - :memo:&nbsp;Use a succinct title and description.
- - :bug:&nbsp;Bugs & feature requests should be opened on the relevant issue tracker.
- - :signal_strength:&nbsp;Support questions are better asked on Stack Overflow.
- - :blush:&nbsp;Be nice, civil and polite.
- - :heart_eyes:&nbsp;If you include at least one emoji in your question, the feedback will
+ - :mag:&nbsp; Ensure your question hasn't already been answered.
+ - :memo:&nbsp; Use a succinct title and description.
+ - :bug:&nbsp; Bugs & feature requests should be opened on the relevant issue tracker.
+ - :signal_strength:&nbsp; Support questions are better asked on Stack Overflow.
+ - :blush:&nbsp; Be nice, civil and polite.
+ - :heart_eyes:&nbsp; If you include at least one emoji in your question, the feedback will
    probably come faster.
 
 ### Links
